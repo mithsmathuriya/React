@@ -1,2 +1,2 @@
-# React
+# react
 Burger Project
